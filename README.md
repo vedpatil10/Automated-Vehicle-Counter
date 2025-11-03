@@ -14,7 +14,6 @@ An intelligent vehicle counting system using **YOLOv8** and **DeepSORT** for acc
 
 ### 📺 Output Video
 **https://drive.google.com/file/d/1B_vZ6DSmee_tUtCGRuV_accKHM2kWLVi/view?usp=sharing(#)**
-> *Replace with your actual Google Drive link*
 
 ### Sample Detection Frames
 
@@ -41,8 +40,6 @@ frame_output/
 ├── test/images/ & labels/
 └── sample_annotations/
 ```
-
-**🔗 [View Dataset on Roboflow](#)** *(Add your link)*
 
 ## 🚀 Quick Start
 
